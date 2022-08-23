@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Quality Service",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Providing 24/7 access to specialists.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Cutting-Edge Technology",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Providing technology assisted innovative telehealth solutions.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Helping Remote Areas",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Providing remote and rural patients with access to care.",
   },
 ];
 
@@ -73,17 +73,17 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Partner Hospitals in Pakistan",
+    value: "100+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Trusted by Medical Professionals",
+    value: "1000+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "Capital Raised",
     value: "$230M+",
   },
 ];
