@@ -6,7 +6,7 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        We are B2C <br className="sm:block hidden" /> & of cource B2B too!
+        We are B2C <br className="sm:block hidden" /> & of cource B2B too Yes!
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
