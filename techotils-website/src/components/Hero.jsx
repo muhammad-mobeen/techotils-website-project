@@ -21,7 +21,7 @@ const Hero = () => (
         </h1>
 
         <div className="ss:flex hidden md:mr-4 mr-0">
-          <GetStarted />
+          <GetStarted/>
         </div>
       </div>
 
