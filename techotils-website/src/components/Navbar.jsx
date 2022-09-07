@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <nav className="w-full flex pt-6 pb-1 justify-between items-center navbar">
-      <img src={logo} alt="techotils" className="w-[200px] h-[48px]" />
+      <img src={logo} alt="techotils" className="w-[250px] h-[68px]" />
 
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
         {navLinks.map((nav, index) => (
